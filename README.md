@@ -37,8 +37,12 @@ I am an AI Engineer who specializes in building agent runtimes, evaluation pipel
 *Auto-synced with my pinned repositories, refreshed daily.*
 
 <!-- PINNED:START -->
-[![shiboleth-marketing-compliance-analyst](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=shiboleth-marketing-compliance-analyst&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/shiboleth-marketing-compliance-analyst)
+[![Claude-workflow-framework](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=Claude-workflow-framework&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/Claude-workflow-framework)
+[![entitylens](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=entitylens&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/entitylens)
+[![ai-agentic-future-maintainers](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=ai-agentic-future-maintainers&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/ai-agentic-future-maintainers)
 [![cfo-assistant](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=cfo-assistant&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/cfo-assistant)
+[![shiboleth-marketing-compliance-analyst](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=shiboleth-marketing-compliance-analyst&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/shiboleth-marketing-compliance-analyst)
+[![space-voyage-tracker](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=space-voyage-tracker&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/space-voyage-tracker)
 <!-- PINNED:END -->
 
 # 📊 GitHub Stats:
