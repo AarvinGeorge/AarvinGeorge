@@ -52,15 +52,15 @@ Shipped 10+ features on a loan platform serving 700K+ users worldwide, including
 
 <!-- PINNED:START -->
 <p align="center">
-  <a href="https://github.com/AarvinGeorge/shiboleth-marketing-compliance-analyst"><img src="assets/cards/shiboleth-marketing-compliance-analyst.svg" width="400" alt="shiboleth-marketing-compliance-analyst"/></a>
-  <a href="https://github.com/AarvinGeorge/cfo-assistant"><img src="assets/cards/cfo-assistant.svg" width="400" alt="cfo-assistant"/></a>
-</p>
-<p align="center">
   <a href="https://github.com/AarvinGeorge/Claude-workflow-framework"><img src="assets/cards/Claude-workflow-framework.svg" width="400" alt="Claude-workflow-framework"/></a>
   <a href="https://github.com/AarvinGeorge/entitylens"><img src="assets/cards/entitylens.svg" width="400" alt="entitylens"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/AarvinGeorge/ai-agentic-future-maintainers"><img src="assets/cards/ai-agentic-future-maintainers.svg" width="400" alt="ai-agentic-future-maintainers"/></a>
+  <a href="https://github.com/AarvinGeorge/cfo-assistant"><img src="assets/cards/cfo-assistant.svg" width="400" alt="cfo-assistant"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AarvinGeorge/shiboleth-marketing-compliance-analyst"><img src="assets/cards/shiboleth-marketing-compliance-analyst.svg" width="400" alt="shiboleth-marketing-compliance-analyst"/></a>
   <a href="https://github.com/AarvinGeorge/space-voyage-tracker"><img src="assets/cards/space-voyage-tracker.svg" width="400" alt="space-voyage-tracker"/></a>
 </p>
 <!-- PINNED:END -->
