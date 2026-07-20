@@ -1,0 +1,57 @@
+<div align="center">
+  <img src="assets/aarvin-room.gif" width="600" alt="Aarvin's room: engineer, builder, musician, wizard"/>
+</div>
+
+# 💫 About Me:
+I am an AI Engineer who specializes in building agent runtimes, evaluation pipelines, custom agent harnesses, context engineering, and MCP Servers. Low-key had to figure most of it out on my own, before there were tutorials for it.
+
+- 🔭 Shipping a channel-agnostic, multi-agent AI assistant dispatched from a custom-built platform for spinning up agent runtimes. The assistant lives in a Fortune-20 retail executive's channels (Slack, WhatsApp, email) and automates 151 hours/month of manual work
+- 🏦 At Deutsche Bank, built an AI-enabled equity research platform that cut portfolio research time 63% for 15+ investment bankers, influencing ~$5M in portfolio outcomes
+- 📏 My rule: an AI system that can't measure itself is a demo, not a product. Everything I ship carries its own eval pipeline
+- 🧭 CMU MISM '25 · ex-Deutsche Bank · ex-PwC · fintech roots, agentic present
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarvin-george-20531518a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aarctecaimonk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AarvinGeorge-arcnet-ai)
+# 💻 Tech Stack:
+
+**🧠 AI & Agents**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith_Evals-1C3C3C?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone_VectorDB-0C0C0C?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP_Servers-5A67D8?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**⚙️ Languages & Backend**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+**🎨 Frontend & Design**
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+**☁️ Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**📊 Data & Analytics**
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+# 🚀 Featured Builds:
+*Auto-synced with my pinned repositories, refreshed daily.*
+
+<!-- PINNED:START -->
+[![shiboleth-marketing-compliance-analyst](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=shiboleth-marketing-compliance-analyst&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/shiboleth-marketing-compliance-analyst)
+[![cfo-assistant](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=cfo-assistant&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/cfo-assistant)
+<!-- PINNED:END -->
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AarvinGeorge&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AarvinGeorge&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AarvinGeorge&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AarvinGeorge&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+---
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=AarvinGeorge&color=5A67D8&style=for-the-badge)
+
+*The gap between a demo and a product is an evaluation pipeline.*
+
+</div>

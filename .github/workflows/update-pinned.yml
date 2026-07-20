@@ -1,0 +1,36 @@
+name: Sync pinned repos into README
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily, 6:00 UTC
+  workflow_dispatch: {} # manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Update Featured Builds section from live pins
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_pinned.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet README.md; then
+            git add README.md
+            git commit -m "chore: sync pinned repo cards [skip ci]"
+            git push
+          else
+            echo "No changes to commit."
+          fi
