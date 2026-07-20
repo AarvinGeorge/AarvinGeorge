@@ -11,6 +11,20 @@ I am an AI Engineer who specializes in building agent runtimes, evaluation pipel
 - 🧭 CMU MISM '25 · ex-Deutsche Bank · ex-PwC · fintech roots, agentic present
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarvin-george-20531518a/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aarctecaimonk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AarvinGeorge-arcnet-ai)
+# 💼 Where I've Shipped:
+
+**🤖 Virtual Gold** · Technology Consultant, AI Engineer · *Aug 2025 - Present*
+Own the full SDLC of a multi-agent AI assistant a Fortune-20 retail board member relies on daily: ~150 exec hours/month saved, ~52% output quality gain via LLM-as-a-Judge evals, ~55% less manual coordination through channel-agnostic agentic workflows.
+
+**🏥 CMU x Allegheny General Hospital** · Research Assistant, AI Software Engineer · *Jun - Aug 2025*
+Built a clinical AI assistant adopted department-wide by 70+ ER physicians: source-cited answers with hallucination guardrails in under 1 minute, shipped end to end in 10 weeks.
+
+**🏦 Deutsche Bank** · Senior Analyst, Full Stack Software Engineering · *Apr 2023 - Jul 2024*
+Built DB Colors, an AI-enabled equity research platform that cut research time 63% for 15+ investment bankers (~$5M in portfolio outcomes). Compliance platform at ~100K req/sec, 75% API latency cut, 10 design-system components adopted across 40+ apps.
+
+**📈 PwC** · Technology Consultant, Platform Engineering · *Jul 2021 - Jan 2023*
+Shipped 10+ features on a loan platform serving 700K+ users worldwide, including a document translation service behind $2.91M in disbursements. Salesforce prototypes built directly with IDFC Bank stakeholders.
+
 # 💻 Tech Stack:
 
 **🧠 AI & Agents**
@@ -37,12 +51,18 @@ I am an AI Engineer who specializes in building agent runtimes, evaluation pipel
 *Auto-synced with my pinned repositories, refreshed daily.*
 
 <!-- PINNED:START -->
-[![Claude-workflow-framework](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=Claude-workflow-framework&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/Claude-workflow-framework)
-[![entitylens](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=entitylens&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/entitylens)
-[![ai-agentic-future-maintainers](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=ai-agentic-future-maintainers&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/ai-agentic-future-maintainers)
-[![cfo-assistant](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=cfo-assistant&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/cfo-assistant)
-[![shiboleth-marketing-compliance-analyst](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=shiboleth-marketing-compliance-analyst&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/shiboleth-marketing-compliance-analyst)
-[![space-voyage-tracker](https://github-readme-stats.vercel.app/api/pin/?username=AarvinGeorge&repo=space-voyage-tracker&theme=radical&hide_border=true)](https://github.com/AarvinGeorge/space-voyage-tracker)
+<p align="center">
+  <a href="https://github.com/AarvinGeorge/shiboleth-marketing-compliance-analyst"><img src="assets/cards/shiboleth-marketing-compliance-analyst.svg" width="400" alt="shiboleth-marketing-compliance-analyst"/></a>
+  <a href="https://github.com/AarvinGeorge/cfo-assistant"><img src="assets/cards/cfo-assistant.svg" width="400" alt="cfo-assistant"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AarvinGeorge/Claude-workflow-framework"><img src="assets/cards/Claude-workflow-framework.svg" width="400" alt="Claude-workflow-framework"/></a>
+  <a href="https://github.com/AarvinGeorge/entitylens"><img src="assets/cards/entitylens.svg" width="400" alt="entitylens"/></a>
+</p>
+<p align="center">
+  <a href="https://github.com/AarvinGeorge/ai-agentic-future-maintainers"><img src="assets/cards/ai-agentic-future-maintainers.svg" width="400" alt="ai-agentic-future-maintainers"/></a>
+  <a href="https://github.com/AarvinGeorge/space-voyage-tracker"><img src="assets/cards/space-voyage-tracker.svg" width="400" alt="space-voyage-tracker"/></a>
+</p>
 <!-- PINNED:END -->
 
 # 📊 GitHub Stats:
