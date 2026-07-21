@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-I am an AI Engineer who specializes in building agent runtimes, evaluation pipelines, custom agent harnesses, context engineering, and MCP Servers. Low-key had to figure most of it out on my own, before there were tutorials for it.
+I am an AI Engineer who specializes in building agent runtimes, evaluation pipelines, custom agent harnesses, context engineering solutions, and MCP Servers. Low-key had to figure most of it out on my own, before there were tutorials for it.
 
 - 🔭 Shipping a channel-agnostic, multi-agent AI assistant dispatched from a custom-built platform for spinning up agent runtimes. The assistant lives in a Fortune-20 retail executive's channels (Slack, WhatsApp, email) and automates 151 hours/month of manual work
 - 🏦 At Deutsche Bank, built an AI-enabled equity research platform that cut portfolio research time 63% for 15+ investment bankers, influencing ~$5M in portfolio outcomes
