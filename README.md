@@ -62,7 +62,7 @@ Shipped 10+ features on a loan platform serving 700K+ users worldwide, including
   <a href="https://github.com/AarvinGeorge/cfo-assistant"><img src="assets/cards/cfo-assistant.svg" width="400" alt="cfo-assistant"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/AarvinGeorge/shiboleth-marketing-compliance-analyst"><img src="assets/cards/shiboleth-marketing-compliance-analyst.svg" width="400" alt="shiboleth-marketing-compliance-analyst"/></a>
+  <a href="https://github.com/AarvinGeorge/adlign-marketing-compliance-analyst"><img src="assets/cards/adlign-marketing-compliance-analyst.svg" width="400" alt="adlign-marketing-compliance-analyst"/></a>
   <a href="https://github.com/AarvinGeorge/space-voyage-tracker"><img src="assets/cards/space-voyage-tracker.svg" width="400" alt="space-voyage-tracker"/></a>
 </p>
 <!-- PINNED:END -->
